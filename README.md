@@ -22,9 +22,11 @@ Each environment uses the same Terraform module to provision:
 
 Each environment uses the same Terraform module to provision infrastructure.
 Basic variations such as environment name and instance count are controlled using input variables, while the core configuration remains consistent across environments.
+
 ---
 
 # Architecture Diagram 
+<img width="1179" height="755" alt="diagram-export-21-04-2026-20_35_00" src="https://github.com/user-attachments/assets/5e034fcf-e4ea-48b2-90c7-6bef02adcde5" />
 
 
 ## Project Structure
